@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "skill_sync_user",
+    "password": "skill_sync_pass",
+    "database": "skill_sync_database",
+    "host": "skill_sync_db",
+    "dialect": "postgres"
+  }
+}
